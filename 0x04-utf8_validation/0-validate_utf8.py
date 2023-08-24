@@ -33,7 +33,7 @@ def validUTF8(data):
 
             # Invalid scenarios according to the rules of the problem.
             if n_bytes == 1 or n_bytes > 4:
-             return False
+                return False
         else:
             # If this byte is a part of an existing UTF-8 character, then we
             # simply have to look at the two most significant bits and we make
