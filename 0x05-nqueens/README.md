@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x05. N Queens
 ==============
 
@@ -61,3 +62,6 @@ julien@ubuntu:~/0x08. N Queens$
 -   GitHub repository: `alx-interview`
 -   Directory: `0x05-nqueens`
 -   File: `0-nqueens.py`
+=======
+ 	NQUEENS INTER VIEW QUESTION
+>>>>>>> 290434ff606252a4e73cf7083cc1645aa567deef
